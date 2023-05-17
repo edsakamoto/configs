@@ -1,1 +1,2 @@
-message: Teste client-service
+server:
+  port: 8086
