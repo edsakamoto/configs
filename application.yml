@@ -18,3 +18,4 @@ info:
   mail: es.sakamoto@gmail.com
 server:
   port: ${PORT:9999}
+message: teste
